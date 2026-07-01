@@ -67,7 +67,6 @@ frontend-learning/
 ├── HTML/
 ├── CSS/
 ├── JavaScript/
-├── React/
 └── README.md
 ```
 
